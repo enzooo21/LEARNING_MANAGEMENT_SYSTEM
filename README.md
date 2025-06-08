@@ -9,6 +9,10 @@ Rebacca, Zyrene
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+## CLOUD
+https://app.netlify.com/projects/learningmanagementsyst/overview
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 ## Learning Management System for Agricultural Training and Advisory Service
 Welcome to the Learning Management System designed to support and enhance farm business advisory services through a robust digital platform. This system is specifically developed for the International Training Center on Pig Husbandry, a leading institution in livestock-focused agricultural training.
 
@@ -39,10 +43,10 @@ Other features we’re looking forward to include live chat support, where users
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Technologies Used
-Frontend:
+Frontend: HTML, CSS, JS
 
-Backend:
+Backend: PHP
 
-Database:
+Database: MySQL
 
-Cloud:
+Cloud: NETLIFY
